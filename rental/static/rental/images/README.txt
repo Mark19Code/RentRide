@@ -1,0 +1,1 @@
+Add original or properly licensed vehicle images here only when using static fallback images. Uploaded vehicle images belong in media/cars/.

@@ -1,0 +1,10 @@
+.venv/
+venv/
+.env*
+!.env.example
+__pycache__/
+*.py[cod]
+*.sqlite3
+staticfiles/
+media/cars/*
+!media/cars/.gitkeep
